@@ -13,5 +13,4 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,accel.ipflygates.com
-IP-CIDR,148.113.16.29/32,no-resolve
-IP-CIDR,38.76.150.123/32,no-resolve
+IP-CIDR,178.175.128.0/21
